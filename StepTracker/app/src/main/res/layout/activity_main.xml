@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="2"
+        tools:layout_editor_absoluteX="170dp"
+        tools:layout_editor_absoluteY="0dp">
+
+        <!-- Use weights to split the screen in half -->
+
+        <com.jjoe64.graphview.GraphView
+            android:id="@+id/graph"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <com.jjoe64.graphview.GraphView
+            android:id="@+id/graph2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/showdebug"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_width="185dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Show Debug" />
+
+        <Button
+            android:id="@+id/startStep"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentLeft="true"
+            android:layout_width="175dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Start StepCount" />
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/newStep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="New Step: "
+            android:textColor="@android:color/holo_green_dark" />
+
+        <EditText
+            android:id="@+id/StepCounter"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="StepCounterValue:" />
+
+        <EditText
+            android:id="@+id/editText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="StepCount: " />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

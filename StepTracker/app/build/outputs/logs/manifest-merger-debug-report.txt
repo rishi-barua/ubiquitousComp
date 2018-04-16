@@ -1,0 +1,103 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\70d46695ec5f0562d651805855e24c66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\60000853a66f83bbc85009ee222e851c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\50b6a6eedcf73a809bdf51aad6b2a32b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a41464dcd80bd38af1339c3531c663b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\517ee59815632e8d60167fc6dad5a8e6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e3b64fe8709b842fdca85c3b3ff41b11\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a72bca2a66fd47b872a3704790009a1b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2d00e408eb8c5a19da6e8622425b4c84\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\917833a666fc1fb8843ec0bde09b2e97\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba251f052ded06c5927720664775486\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\de84daabe0b658874a6e49a6a4b22821\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc4ec01dbf3dc3716f10d24fdae3e64b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\60000853a66f83bbc85009ee222e851c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\60000853a66f83bbc85009ee222e851c\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.ribarua.inclasshelloworld.MainActivity
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\70d46695ec5f0562d651805855e24c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.0.aar\70d46695ec5f0562d651805855e24c66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\60000853a66f83bbc85009ee222e851c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\60000853a66f83bbc85009ee222e851c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\50b6a6eedcf73a809bdf51aad6b2a32b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.0.aar\50b6a6eedcf73a809bdf51aad6b2a32b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a41464dcd80bd38af1339c3531c663b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.0.aar\a41464dcd80bd38af1339c3531c663b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\517ee59815632e8d60167fc6dad5a8e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.0.aar\517ee59815632e8d60167fc6dad5a8e6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e3b64fe8709b842fdca85c3b3ff41b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.0.aar\e3b64fe8709b842fdca85c3b3ff41b11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a72bca2a66fd47b872a3704790009a1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.0.aar\a72bca2a66fd47b872a3704790009a1b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2d00e408eb8c5a19da6e8622425b4c84\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.0.aar\2d00e408eb8c5a19da6e8622425b4c84\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\917833a666fc1fb8843ec0bde09b2e97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\917833a666fc1fb8843ec0bde09b2e97\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba251f052ded06c5927720664775486\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\0ba251f052ded06c5927720664775486\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\de84daabe0b658874a6e49a6a4b22821\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\de84daabe0b658874a6e49a6a4b22821\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc4ec01dbf3dc3716f10d24fdae3e64b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\cc4ec01dbf3dc3716f10d24fdae3e64b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\AndroidStudioProjects\InClassHelloWorld\app\src\main\AndroidManifest.xml
