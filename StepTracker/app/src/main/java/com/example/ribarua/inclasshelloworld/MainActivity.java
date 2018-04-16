@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         accelerationSteps = new DataPoint[30];
 
         seconds = (new Date()).getTime();
-        
+
         sensorManager=(SensorManager) getSystemService(SENSOR_SERVICE);
         sensorManager.registerListener((SensorEventListener) this, sensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER), SensorManager.SENSOR_DELAY_GAME);
         sensorManager.registerListener((SensorEventListener) this, sensorManager.getDefaultSensor(Sensor.TYPE_STEP_COUNTER), SensorManager.SENSOR_DELAY_GAME);
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         GraphView graph = (GraphView) this.findViewById(R.id.graph);
         _series1 = new LineGraphSeries<>();
         graph.addSeries(_series1);
-        graph.setTitle("Real-Time Graph (Non-Scrolling)");
+        graph.setTitle("Real-Time Graph (Actual)");
         graph.getGridLabelRenderer().setVerticalAxisTitle("Acceleration");
         graph.getGridLabelRenderer().setHorizontalAxisTitle("Seconds");
         graph.getViewport().setXAxisBoundsManual(true);
@@ -94,7 +94,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
         GraphView graph2 = (GraphView) this.findViewById(R.id.graph2);
         _series2 = new LineGraphSeries<>();
-        graph2.setTitle("Real-Time Graph (Scrolling)");
+        graph2.setTitle("Real-Time Graph (Smooth)");
         graph2.addSeries(_series2);
         graph2.getGridLabelRenderer().setVerticalAxisTitle("Acceleration");
         graph2.getGridLabelRenderer().setHorizontalAxisTitle("Seconds");
@@ -246,11 +246,11 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
             aVec[1] = ay;
             aVec[2] = az;
 
-            acc_mod = vectorMod(aVec);
+            acc_mod = vectorMod(aVec); // Get Mod
             //Log.i("currentPointer = ", "" + currentPointer);
             if (currentPointer == 30 && set == false)
             {
-                threshold = DetectThreshold(accValues);
+                threshold = DetectThreshold(accValues); // Get threshold. Any threshold less than 9 is not acceptable as g = 9.8m/s2
                 if (threshold > 9)
                 {
                     set = true;
@@ -270,7 +270,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
                 {
                     prev_acc = acc_mod;
                 }
-                double smooth_val = averageFloat(currentPointer - window_size, accValues, currentPointer);
+                double smooth_val = averageFloat(currentPointer - window_size, accValues, currentPointer); // Smoothen the signal
                 smooth_acc = smooth_val;
 
             }
@@ -348,7 +348,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     }
 
-    private double averageFloat(int i, double[] values, int j)
+    private double averageFloat(int i, double[] values, int j) // this averages the values in the array within the given window
     {
         double sum = 0;
         for (; i<j; i++)
@@ -360,7 +360,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         return sum/window_size;
     }
 
-    private double[] movingAverages(double[] values)
+    private double[] movingAverages(double[] values) // Given a vector value, this finds moving averages
     {
         double[] newValues = new double[values.length];
         int i =0;
@@ -384,7 +384,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
         return newValues;
     }
 
-    private double vectorMod(double[] vec1)
+    private double vectorMod(double[] vec1) // Function to find modulus of a vector
     {
         double val = vec1[0]*vec1[0] + vec1[1]*vec1[1] + vec1[2]*vec1[2];
         val = Math.sqrt(val);
