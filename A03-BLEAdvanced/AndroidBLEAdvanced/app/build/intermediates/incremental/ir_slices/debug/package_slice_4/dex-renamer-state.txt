@@ -1,0 +1,4 @@
+#Sat May 12 14:09:16 PDT 2018
+base.0=C\:\\Users\\ribarua\\Desktop\\rishi-barua\\CSE590Sp2018\\A03-BLEAdvanced\\AndroidBLEAdvanced\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
