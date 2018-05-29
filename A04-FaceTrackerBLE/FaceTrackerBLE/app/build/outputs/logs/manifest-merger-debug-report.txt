@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\686424aa6128d8d6e7b97c3a698ce2f7\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb9dde3226bcabc42d34a2bbedfe8f10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e8de5b3f79705d52d96b020ae395ebe0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0d8b2477c87c493c5b4cdb2aec29220\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\d04001ef06af208c4ee2fb06cc3bd39a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:16:1-26:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3b700447dc12458231cfc509e2bc039e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4eca2df9f91a96ebf6448501b84c582f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19620692e8fff26917de9a8cb0b21348\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5fcbaaf43e198f95aa366d6f81d0e939\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f1658d8d0ffd409a44dfd5706e2fed3e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f03cf35ac21ac0bca9c95a8d4edfacfc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\33c2e161fd7f3c2bd134f0722b3a4a22\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b7752acc6475edc19c0aad6487d08f91\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3875e8398af1d26a30d0d42eca496951\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b54bfc48b8883ab204065ea745fc2cdc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3dd9b47d861d9aaccbde62da77ee1277\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7b8b4a89132561d2e24dfe3448976315\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b099c7e69ac71ac9f7fb6fd4a8dea6d4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a34e41ce5de95d70ec937644e0985810\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:2:11-69
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:5:5-7:32
+	android:value
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:7:9-29
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:6:9-66
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:11:5-90
+	android:required
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:11:64-87
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:11:19-63
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:13:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:14:5-74
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:14:22-71
+uses-feature#android.hardware.camera
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:16:5-60
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:16:19-57
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:17:22-62
+application
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:19:5-43:19
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\686424aa6128d8d6e7b97c3a698ce2f7\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\686424aa6128d8d6e7b97c3a698ce2f7\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0d8b2477c87c493c5b4cdb2aec29220\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0d8b2477c87c493c5b4cdb2aec29220\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\d04001ef06af208c4ee2fb06cc3bd39a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\d04001ef06af208c4ee2fb06cc3bd39a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:20:5-24:19
+	android:supportsRtl
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:22:9-41
+	android:roundIcon
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:23:9-54
+	android:icon
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:21:9-43
+	android:allowBackup
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:25:9-40
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:27:9-28:68
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:28:13-66
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:27:20-65
+activity#io.makeabilitylab.facetrackerble.MainActivity
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:34:9-42:20
+	android:screenOrientation
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:37:13-51
+	android:label
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:36:13-63
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:34:19-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:38:13-41:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:39:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:40:17-77
+	android:name
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml:40:27-74
+uses-sdk
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\686424aa6128d8d6e7b97c3a698ce2f7\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-vision:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-vision-9.4.0.aar\686424aa6128d8d6e7b97c3a698ce2f7\AndroidManifest.xml:4:5-42
+MERGED from [com.android.support:design:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb9dde3226bcabc42d34a2bbedfe8f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\fb9dde3226bcabc42d34a2bbedfe8f10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e8de5b3f79705d52d96b020ae395ebe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\e8de5b3f79705d52d96b020ae395ebe0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0d8b2477c87c493c5b4cdb2aec29220\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\f0d8b2477c87c493c5b4cdb2aec29220\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\d04001ef06af208c4ee2fb06cc3bd39a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\d04001ef06af208c4ee2fb06cc3bd39a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\9db4dee32eba76aa31c7a4092eec1d71\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3b700447dc12458231cfc509e2bc039e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\3b700447dc12458231cfc509e2bc039e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4eca2df9f91a96ebf6448501b84c582f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\4eca2df9f91a96ebf6448501b84c582f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19620692e8fff26917de9a8cb0b21348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\19620692e8fff26917de9a8cb0b21348\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5fcbaaf43e198f95aa366d6f81d0e939\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\5fcbaaf43e198f95aa366d6f81d0e939\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f1658d8d0ffd409a44dfd5706e2fed3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\f1658d8d0ffd409a44dfd5706e2fed3e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f03cf35ac21ac0bca9c95a8d4edfacfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\f03cf35ac21ac0bca9c95a8d4edfacfc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\33c2e161fd7f3c2bd134f0722b3a4a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\33c2e161fd7f3c2bd134f0722b3a4a22\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b7752acc6475edc19c0aad6487d08f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\b7752acc6475edc19c0aad6487d08f91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3875e8398af1d26a30d0d42eca496951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\3875e8398af1d26a30d0d42eca496951\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b54bfc48b8883ab204065ea745fc2cdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\b54bfc48b8883ab204065ea745fc2cdc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3dd9b47d861d9aaccbde62da77ee1277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3dd9b47d861d9aaccbde62da77ee1277\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7b8b4a89132561d2e24dfe3448976315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\7b8b4a89132561d2e24dfe3448976315\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b099c7e69ac71ac9f7fb6fd4a8dea6d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b099c7e69ac71ac9f7fb6fd4a8dea6d4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a34e41ce5de95d70ec937644e0985810\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a34e41ce5de95d70ec937644e0985810\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ribarua\Desktop\rishi-barua\CSE590Sp2018\A04-FaceTrackerBLE\FaceTrackerBLE\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.4.0] C:\Users\ribarua\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\863e780664e4bf56f2eb16668b331610\AndroidManifest.xml:20:19-85

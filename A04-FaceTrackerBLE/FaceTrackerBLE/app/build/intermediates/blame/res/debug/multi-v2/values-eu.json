@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ribarua\\Desktop\\rishi-barua\\CSE590Sp2018\\A04-FaceTrackerBLE\\FaceTrackerBLE\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-eu\\values-eu.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ribarua\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\e8de5b3f79705d52d96b020ae395ebe0\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,1905",
+                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
+                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,1982"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,214,312,422,508,614,738,825,909,991,1100,1210,1309,1418,1524,1635,1806,5124",
+                        "endColumns": "108,97,109,85,105,123,86,83,81,108,109,98,108,105,110,170,98,81",
+                        "endOffsets": "209,307,417,503,609,733,820,904,986,1095,1205,1304,1413,1519,1630,1801,1900,5201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ribarua\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\863e780664e4bf56f2eb16668b331610\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,435,643,771,901,1116,1330,1459,1595,1871,1997,2107,2305,2437,2664,2800,2989,3085,3180",
+                        "endColumns": "105,207,127,129,214,213,128,135,275,125,109,197,131,226,135,188,95,94,107",
+                        "endOffsets": "430,638,766,896,1111,1325,1454,1590,1866,1992,2102,2300,2432,2659,2795,2984,3080,3175,3283"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36,37,38",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1905,2011,2219,2347,2477,2692,2906,3035,3431,3707,3833,3943,4141,4273,4500,4636,4825,4921,5016",
+                        "endColumns": "105,207,127,129,214,213,128,135,275,125,109,197,131,226,135,188,95,94,107",
+                        "endOffsets": "2006,2214,2342,2472,2687,2901,3030,3166,3702,3828,3938,4136,4268,4495,4631,4820,4916,5011,5119"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ribarua\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\b54bfc48b8883ab204065ea745fc2cdc\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "40",
+                        "startColumns": "4",
+                        "startOffsets": "5206",
+                        "endColumns": "100",
+                        "endOffsets": "5302"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ribarua\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.4.0.aar\\9db4dee32eba76aa31c7a4092eec1d71\\res\\values-eu\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "331",
+                        "endColumns": "259",
+                        "endOffsets": "586"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3171",
+                        "endColumns": "259",
+                        "endOffsets": "3426"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Thu May 17 23:40:52 PDT 2018
+base.0=C\:\\Users\\ribarua\\Desktop\\rishi-barua\\CSE590Sp2018\\A04-FaceTrackerBLE\\FaceTrackerBLE\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex
