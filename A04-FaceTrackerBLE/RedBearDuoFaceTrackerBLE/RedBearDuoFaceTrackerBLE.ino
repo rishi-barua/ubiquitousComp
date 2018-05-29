@@ -215,6 +215,14 @@ int bleReceiveDataCallback(uint16_t value_handle, uint8_t *buffer, uint16_t size
         int value = receive_data[1] << 24 | (receive_data[2] & 0xFF) << 16 | (receive_data[3] & 0xFF) << 8 | (receive_data[4] & 0xFF);
         Serial.println(value);
         //analogWrite(SERVO_OUTPUT_PIN, 255);
+        if (value > 180)
+        {
+          value = 180;
+        }
+        if (value < 0)
+        {
+          value = 0;
+        }
         _faceAngle.write(value);
 
     }
@@ -245,22 +253,23 @@ static void bleSendDataTimerCallback(btstack_timer_source_t *ts) {
   // Write code that uses the ultrasonic sensor and transmits this to Android
   // Example ultrasonic code here: https://github.com/jonfroehlich/CSE590Sp2018/tree/master/L06-Arduino/RedBearDuoUltrasonicRangeFinder
   // Also need to check if distance measurement < threshold and sound alarm
-  
+  int threshold = 5000;
 // Hold the trigger pin high for at least 10 us
   digitalWrite(TRIG_PIN, HIGH);
   delayMicroseconds(10);
   digitalWrite(TRIG_PIN, LOW);
-
+  Serial.println("im here");
   // Wait for pulse on echo pin
   while ( digitalRead(ECHO_PIN) == 0 );
-
+  Serial.println("after echo pin 0");
   // Measure how long the echo pin was held high (pulse width)
   // Note: the micros() counter will overflow after ~70 min
   // TODO: We probably need to check for a timeout here just in case
   // the ECHO_PIN never goes HIGH... so like
   // while ( digitalRead(ECHO_PIN) == 1 && micros() - t1 < threshold);
   t1 = micros();
-  while ( digitalRead(ECHO_PIN) == 1);
+  while ( digitalRead(ECHO_PIN) == 1 && micros() - t1 < threshold);
+  
   t2 = micros();
   pulse_width = t2 - t1;
 
@@ -270,8 +279,8 @@ static void bleSendDataTimerCallback(btstack_timer_source_t *ts) {
   // Datasheet: https://cdn.sparkfun.com/datasheets/Sensors/Proximity/HCSR04.pdf
   cm = pulse_width / 58.0;
 
-  //Serial.print("CM = ");
-  //Serial.println(cm);
+  Serial.print("CM = ");
+  Serial.println(cm);
   
   WindowValues[countWindow] = cm;
 
@@ -296,10 +305,10 @@ static void bleSendDataTimerCallback(btstack_timer_source_t *ts) {
     
     // Print out results
     if ( pulse_width > MAX_DIST ) {
-      //Serial.println("Out of range");
+      Serial.println("Out of range");
     } else {
-      //Serial.print(cm);
-      //Serial.print(" cm \t");
+      Serial.print(cm);
+      Serial.print(" cm \t");
     }
 
     send_data[0] = (byte) (cm >> 24);
